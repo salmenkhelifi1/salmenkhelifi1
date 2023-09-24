@@ -61,7 +61,13 @@
 
 ###
 
-<br clear="both">
+<div align="center">
+  <a href="https://open.spotify.com/user/https://spotify-recently-played-readme.vercel.app/api?user=31jpq3s3fgvwknpbvm4742zjk5fy">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 <img src="https://raw.githubusercontent.com/salmenkhelifi1/salmenkhelifi1/output/snake.svg" alt="Snake animation" />
 
