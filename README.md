@@ -68,7 +68,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/salmenkhelifi1/salmenkhelifi1/output/snake.svg" alt="Snake animation" />
-
-###
